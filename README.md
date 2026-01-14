@@ -1,6 +1,6 @@
 💫 About Me:
 <br>
-👋 Hi there! I’m Harshvardhan, a passionate software developer based in India.<br>🚀 I specialize in C++, Python,Java, Django, OpenCV, and full-stack web development, building intelligent and interactive AI applications.<br>🔧 I’m currently working on Automation Testing with Selenium + Java<br>🎯 My goal is to contribute to open-source projects and build scalable solutions that make an impact.<br>💡 When I’m not coding, I enjoy writing poetries and exploring new tech trends.<br>📫 Let’s connect and build something awesome!!
+👋 Hi there! I’m Harshvardhan, a passionate software developer based in India.<br>🚀 I specialize in C++, Python, Java, Django, OpenCV, and full-stack web development, building intelligent and interactive AI applications.<br>🔧 I’m currently working on Automation Testing with Selenium + Java<br>🎯 My goal is to contribute to open-source projects and build scalable solutions that make an impact.<br>💡 When I’m not coding, I enjoy writing poetries and exploring new tech trends.<br>📫 Let’s connect and build something awesome!!
 
 
 ## 🌐 Socials:
